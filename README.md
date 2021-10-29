@@ -1,9 +1,9 @@
 # face-cartoon
 This is a python implementation of face cartoon.  
 * bilateral filter
-* enhance saturation
+* enhanced saturation
 * color quantization using KNN
-* overlay with modified canny edge (have line width > 1)
+* overlaid with modified canny edge (line width > 1)
 
 
 before             |  after
